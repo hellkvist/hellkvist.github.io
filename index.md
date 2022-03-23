@@ -11,7 +11,8 @@ and my latest publications include topics such as distributed learning and doubl
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
-<a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, 2021 <a href="https://eusipco2021.org/" target="_blank">(EUSIPCO)</a>
+<a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, <br>
+2021 <a href="https://eusipco2021.org/" target="_blank">(EUSIPCO)</a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale.
 : *We characterize how the performance of LMMSE estimation is affected by missing features in the model.*
 
@@ -19,15 +20,9 @@ and my latest publications include topics such as distributed learning and doubl
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We give bounds on the generalization error in a distributed learning setting for a large family of regressor distributions.*
 
-[](), 2020, ([]())
-<a href="https://arxiv.org/abs/2004.14637" target="_blank">
-    Generalization Error for Linear Regression under Distributed Learning
-</a>, 2020, 
-<a href="https://spawc2020.netlify.app/" target="_blank">
-(SPAWC)
-</a> 
+<a href="https://arxiv.org/abs/2004.14637" target="_blank">Generalization Error for Linear Regression under Distributed Learning</a>, 2020, <a href="https://spawc2020.netlify.app/" target="_blank">(SPAWC)</a> 
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
-: We consider a distributed linear regression problem, and characterize the genrealization error for Gaussian regressors.
+: *We consider a distributed linear regression problem, and characterize the genrealization error for Gaussian regressors.*
 
  
 <!-- Publication item template
