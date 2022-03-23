@@ -3,10 +3,8 @@ logo: "/images/logo_mh.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   martin.hellkvist@angstrom.uu.se 
   <br><br>
-  I am a PhD student at the Division of Signals and Systems,
-  Department of Electrical Engineering at Uppsala University. 
-  <br><br>
   <a href="https://www.linkedin.com/in/martin-hellkvist-376aa378/">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://katalog.uu.se/empinfo/?id=N16-203  ">View My Uppsala University Page</a> 
   
 theme: jekyll-theme-minimal
