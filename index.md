@@ -32,10 +32,5 @@ and my latest publications include topics such as distributed learning and doubl
 <!-- 
     <a href="" target="_blank"></a> 
 -->
----
-
-
-
 
 ---
-
