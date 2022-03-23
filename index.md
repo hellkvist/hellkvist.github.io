@@ -9,27 +9,31 @@ and my latest publications include topics such as distributed learning and doubl
 
 [Estimation and Model Misspecification: Fake and Missing Features](https://arxiv.org/abs/2203.03398), 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
-: We characterize the estimation error in a statistical learning setting with both fake and missing features.
+: *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
 [Model Mismatch Trade-offs in LMMSE Estimation](https://arxiv.org/abs/2105.11964), 2021 ([EUSIPCO 2021](https://eusipco2021.org/))
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale.
 : *We characterize how the performance of LMMSE estimation is affected by missing features in the model.*
 
-[Linear Regression with Distributed Learning: A Generalization Error Perspective, 2021, (Journal/Conf/Preprint)](https://arxiv.org/abs/)
+[Linear Regression with Distributed Learning: A Generalization Error Perspective](https://arxiv.org/abs/2101.09001), 2021, ([IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/document/9520293))
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We give bounds on the generalization error in a distributed learning setting.*
 
----
-
-
-
-
----
-
-
-<!-- Publication item template
 [Title](https://arxiv.org/abs/), yyyy, ([Journal/Conf/Preprint]())
 : **Authors:** 
 : one-line-abstract.
 
- >
+ 
+<!-- Publication item template
+[Title](https://arxiv.org/abs/), yyyy, ([Journal/Conf/Preprint]())
+: **Authors:** 
+: one-line-abstract. 
+-->
+
+---
+
+
+
+
+---
+
