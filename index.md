@@ -11,8 +11,7 @@ and my latest publications include topics such as distributed learning and doubl
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
-<a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, <br>
-2021 <a href="https://eusipco2021.org/" target="_blank">(EUSIPCO)</a>
+<a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, 2021 <a href="https://eusipco2021.org/" target="_blank">(EUSIPCO)</a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale.
 : *We characterize how the performance of LMMSE estimation is affected by missing features in the model.*
 

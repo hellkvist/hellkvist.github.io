@@ -1,9 +1,7 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
 title: Martin Hellkvist # your name (or website title) here
 logo: "/images/logo_mh.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p id="emailAdress">martin.hellkvist@angstrom.uu.se </p>
+  martin.hellkvist@angstrom.uu.se
   <button onclick="copyToClipboard('#emailAdress')">Copy</button>
   <br><br>
   <a href="https://www.linkedin.com/in/martin-hellkvist-376aa378/">View My LinkedIn Profile</a> 
