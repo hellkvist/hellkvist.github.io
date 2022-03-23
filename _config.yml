@@ -1,10 +1,11 @@
 title: Martin Hellkvist # your name (or website title) here
 logo: "/images/logo_mh.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  martin.hellkvist@angstrom.uu.se 
+  <p id="emailAdress">martin.hellkvist@angstrom.uu.se </p>
+  <button onclick="copyToClipboard('#emailAdress')">Copy</button>
   <br><br>
   <a href="https://www.linkedin.com/in/martin-hellkvist-376aa378/">View My LinkedIn Profile</a> 
-  <br>
+  <br><br>
   <a href="https://katalog.uu.se/empinfo/?id=N16-203  ">View My Uppsala University Page</a> 
   
 theme: jekyll-theme-minimal
