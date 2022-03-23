@@ -34,3 +34,16 @@ and my latest publications include topics such as distributed learning and doubl
 -->
 
 ---
+## Teaching Experience
+
+1TE661: Signals and Systems, BSc. course, approx. 100 students.
+:**Duties:** Lecturing, flipped classroom tutorials, oral examinations and grading of written exams.
+
+1TE651: Signal Processing, MSc. course, approx. 50 students.
+:**Duties:** Tutorial classes.
+
+1TE689: Graphical Programming in LabVIEW, BSc. course, approx 50 students.
+:**Duties:** Tutorial classes and oral examination. Remote and on-campus experience.
+
+1TE717: Digital Technology and Electronics, approx. 90 students.
+:**Duties:** Tutorial classes, responsible of organizing and supervising electronics projects, grading of project reports, grading of orally presented hand-in assignments. Remote and on-campus experience.
