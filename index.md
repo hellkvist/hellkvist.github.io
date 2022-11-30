@@ -7,11 +7,15 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## List of Publications
 
-<a href="https://arxiv.org/abs/2203.03398" target="_blank">Estimation and Model Misspecification: Fake and Missing Features</a>, 2022 (Preprint)
+<a href="https://arxiv.org/abs/" target="_blank">	Continual Learning with Distributed Optimization: Does COCOA Forget?  </a>, 2022 (Preprint)
+: **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
+: *We explore continual learning from the persepective of distributed learning.*
+
+<a href="https://arxiv.org/abs/2203.03398" target="_blank">Estimation under Model Misspecification with Fake Features </a>, 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
-<a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, 2021 <a href="https://eusipco2021.org/" target="_blank">(EUSIPCO)</a>
+<a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, 2021 <a href="https://ieeexplore.ieee.org/document/9615976" target="_blank"> Presented and published via EUSIPCO 2021 </a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale.
 : *We characterize how the performance of LMMSE estimation is affected by missing features in the model.*
 
@@ -19,7 +23,7 @@ and my latest publications include topics such as distributed learning and doubl
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We give bounds on the generalization error in a distributed learning setting for a large family of regressor distributions.*
 
-<a href="https://arxiv.org/abs/2004.14637" target="_blank">Generalization Error for Linear Regression under Distributed Learning</a>, 2020, <a href="https://spawc2020.netlify.app/" target="_blank">(SPAWC)</a> 
+<a href="https://arxiv.org/abs/2004.14637" target="_blank">Generalization Error for Linear Regression under Distributed Learning</a>, 2020, <a href="https://ieeexplore.ieee.org/document/9154284" target="_blank">Presented and published via SPAWC 2020)</a> 
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We consider a distributed linear regression problem, and characterize the genrealization error for Gaussian regressors.*
 
@@ -36,18 +40,18 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## Teaching Experience
 
-1TE661: Signals and Systems
+1TE661: Signals and Systems, 2018
 : **Extent:** BSc. course, approx. 100 students.
 : **Duties:** Lecturing, flipped classroom tutorials, oral examinations and grading of written exams.
 
-1TE651: Signal Processing
+1TE651: Signal Processing, 2019
 : **Extent:** MSc. course, approx. 50 students.
 : **Duties:** Tutorial classes.
 
-1TE689: Graphical Programming in LabVIEW
+1TE689: Graphical Programming in LabVIEW, 2020, 2021, 2022
 : **Extent:** BSc. course, approx 50 students.
 : **Duties:** Tutorial classes and oral examination. Remote and on-campus experience.
 
-1TE717: Digital Technology and Electronics
+1TE717: Digital Technology and Electronics, 2019, 2021, 2022
 : **Extent:** BSc. course, approx. 90 students.
 : **Duties:** Tutorial classes, responsible of organizing and supervising electronics projects, grading of project reports, grading of orally presented hand-in assignments. Remote and on-campus experience.
