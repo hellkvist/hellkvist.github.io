@@ -7,7 +7,7 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## List of Publications
 
-<a href="https://arxiv.org/abs/" target="_blank">	Continual Learning with Distributed Optimization: Does COCOA Forget?</a>, 2022 (Preprint)
+<a href="https://arxiv.org/abs/2211.16994" target="_blank">	Continual Learning with Distributed Optimization: Does COCOA Forget?</a>, 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We explore continual learning from the persepective of distributed learning.*
 
