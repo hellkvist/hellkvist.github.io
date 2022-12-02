@@ -7,6 +7,10 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## List of Publications
 
+<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features </a>, 2022 (Preprint)
+: **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
+: *We analytically and numerically investigate the trade-offs between the presence of fake features and the explicit ridge regularization.*
+
 <a href="https://arxiv.org/abs/2211.16994" target="_blank">	Continual Learning with Distributed Optimization: Does COCOA Forget?</a>, 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We explore continual learning from the persepective of distributed learning.*
