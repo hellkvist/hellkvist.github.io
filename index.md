@@ -12,7 +12,7 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## List of Publications
 
-<a href="https://arxiv.org/pdf/2203.03398.pdf" target="_blank">Estimation under Model Misspecification with Fake Features</a>, 2023, Published in <a href="https://ieeexplore.ieee.org/document/10018513" target="_blank">IEEE Transactions on Signal Processing</a>
+<a href="https://arxiv.org/abs/2203.03398" target="_blank">Estimation under Model Misspecification with Fake Features</a>, 2023, Published in <a href="https://ieeexplore.ieee.org/document/10018513" target="_blank">IEEE Transactions on Signal Processing</a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
