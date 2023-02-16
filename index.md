@@ -7,7 +7,7 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## Presentations
 
-<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation </a> at RISE Research Institutes of Sweden, "Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series ``Learning Machines Seminars". I present our work published in our paper 
+<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation</a>, September 15th 2022, at RISE Research Institutes of Sweden, "Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series ``Learning Machines Seminars". I present our work published in our paper 
 
 ---
 ## List of Publications
@@ -16,7 +16,7 @@ and my latest publications include topics such as distributed learning and doubl
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
-<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features </a>, 2022 (Preprint)
+<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features</a>, 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We analytically and numerically investigate the trade-offs between the presence of fake features and the explicit ridge regularization.*
 
