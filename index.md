@@ -7,22 +7,22 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## Presentations
 
-<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation </a> at RISE Research Institutes of Sweden, "Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series ``Learning Machines Seminars" 
+<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation </a> at RISE Research Institutes of Sweden, "Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series ``Learning Machines Seminars". I present our work published in our paper 
 
 ---
 ## List of Publications
 
-<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features </a>, 2023, Published in <a href="https://ieeexplore.ieee.org/document/10018513" target="_blank">IEEE Transactions on Signal Processing</a>
+<a href="https://arxiv.org/abs/2212.00433" target="_blank">Estimation under Model Misspecification with Fake Features</a>, 2023, Published in <a href="https://ieeexplore.ieee.org/document/10018513" target="_blank">IEEE Transactions on Signal Processing</a>
+: **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
+: *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
+
+<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features </a>, 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We analytically and numerically investigate the trade-offs between the presence of fake features and the explicit ridge regularization.*
 
 <a href="https://arxiv.org/abs/2211.16994" target="_blank">	Continual Learning with Distributed Optimization: Does COCOA Forget?</a>, 2022 (Preprint)
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We explore continual learning from the persepective of distributed learning.*
-
-<a href="https://arxiv.org/abs/2203.03398" target="_blank">Estimation under Model Misspecification with Fake Features</a>, 2022 (Preprint)
-: **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
-: *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
 <a href="https://arxiv.org/abs/2105.11964" target="_blank">Model Mismatch Trade-offs in LMMSE Estimation</a>, 2021, Presented and published via <a href="https://ieeexplore.ieee.org/document/9615976" target="_blank"> EUSIPCO 2021 </a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale.
