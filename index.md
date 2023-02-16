@@ -5,6 +5,9 @@ My main research interests are signal processing and machine learning with overp
 and my latest publications include topics such as distributed learning and double descent.
 
 ---
+## Presentations
+<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation at RISE Research Institutes of Sweden, ``Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series ``Learning Machines Seminars" </a>
+---
 ## List of Publications
 
 <a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features </a>, 2023, Published in <a href="https://ieeexplore.ieee.org/document/10018513" target="_blank">IEEE Transactions on Signal Processing</a>
