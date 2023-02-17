@@ -7,7 +7,7 @@ and my latest publications include topics such as distributed learning and doubl
 ---
 ## Presentations
 
-<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation</a>, September 15th 2022, at RISE Research Institutes of Sweden, "Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series ``Learning Machines Seminars". I present our work published in our paper 
+<a href="https://www.youtube.com/watch?v=z1TFZFGipG4&ab_channel=RISEResearchInstitutesofSweden" target="_blank">	Presentation</a>, September 15th 2022, at RISE Research Institutes of Sweden, "Fake it until you make it: Fake features can improve estimation performance.", in their Seminar Series "Learning Machines Seminars", where I present our work on Fake Features.
 
 ---
 ## List of Publications
