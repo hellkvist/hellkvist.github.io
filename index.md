@@ -1,8 +1,8 @@
-I am a PhD student at the Division of Signals and Systems,
-Department of Electrical Engineering at Uppsala University. 
+I am an Electrical Engineer with a PhD from Uppsala University. 
 I received my Master of Science degree in Electrical Engineering from Uppsala University in 2018.
 My main research interests are signal processing and machine learning with overparameterized models,
-and my latest publications include topics such as distributed learning and double descent.
+and right now I'm looking for opportunities where I can apply my deep knowledge in the fields of machine learning and signal processing
+to create product value using machine learning and AI solutions.
 
 ---
 ## Presentations
@@ -11,12 +11,15 @@ and my latest publications include topics such as distributed learning and doubl
 
 ---
 ## List of Publications
+<a href="https://arxiv.org/abs/2312.01795" target="_blank">Distributed Continual Learning with CoCoA in High-dimensional Linear Regression</a>, 2023, Preprint, currently under revision</a>
+: **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
+: *We characterize the generalization error obtained when using the distributed learning framework CoCoA to perform continual learning.*
 
 <a href="https://arxiv.org/abs/2203.03398" target="_blank">Estimation under Model Misspecification with Fake Features</a>, 2023, Published in <a href="https://ieeexplore.ieee.org/document/10018513" target="_blank">IEEE Transactions on Signal Processing</a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We characterize the estimation error in a statistical learning setting with both fake and missing features.*
 
-<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features</a>, 2022 (Preprint)
+<a href="https://arxiv.org/abs/2212.00433" target="_blank">	Regularization with Fake Features</a>, 2022, Presented and published via <a href="https://ieeexplore.ieee.org/document/10289928" target="_blank"> EUSIPCO 2023 </a>
 : **Authors:** Martin Hellkvist, Ayca Özcelikkale, Anders Ahlén.
 : *We analytically and numerically investigate the trade-offs between the presence of fake features and the explicit ridge regularization.*
 
